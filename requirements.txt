@@ -1,0 +1,10 @@
+streamlit
+openai
+pypdf
+python-pptx
+python-docx
+pandas
+openpyxl
+jieba
+wordcloud
+matplotlib
